@@ -3,3 +3,4 @@ El sistema desarrollado a lo largo de este informe consiste en la automatizació
 El propósito de este proyecto es cumplimentar una instancia evaluativa que consiste en la realización de un proyecto que integre los conceptos aprendidos a lo largo de la materia. Las herramientas utilizadas fueron: interrupciones, comunicación serie UART, PWM, i2c, conversión analógica‐digital.
 Asi también, se realizó debido al amplio desarrollo en el campo de la domotica y grandes posibilidades de desarrollo a futuro
 
+![alt text](https://github.com/sariasfarias/Proyecto-microcontroladores/blob/master/circuit.jpg)
